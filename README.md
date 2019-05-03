@@ -1,6 +1,6 @@
 # Transfer money between accounts using Java Play and H2
 
-###Description
+### Description
 
 JAVA REST API for creating/updating accounts, transferring money between accounts and listing transfers.
 Technologies used:
@@ -8,7 +8,7 @@ Technologies used:
 - H2 in memory database
 - Ebean 
 
-###Usage
+### Usage
 Server listens at port 9000. 
 Services:
 - GET  /api/1.0/accounts/list         
